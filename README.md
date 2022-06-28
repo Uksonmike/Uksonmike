@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Uksonmike
 - 👀 I’m interested in being a fullstack developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📚 My Tech Stack :
    - SASS 🎯
    - Bootstrap 🔰
    - Javascript ⚙
+   - React ❄️
    - Git & Github ⏳
   
 <!---
