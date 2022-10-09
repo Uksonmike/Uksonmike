@@ -2,8 +2,10 @@
 - 👀 I’m interested in being a fullstack developer
 - 🌱 I’m currently learning Advanced React
 - 📚 My Tech Stack :
+
    - SASS 🎯
    - Bootstrap 🔰
+   - TailwindCSS 🎨
    - Javascript ⚙
    - React ❄️
    - Git & Github ⏳
