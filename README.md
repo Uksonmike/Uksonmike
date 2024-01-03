@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @Uksonmike
-- 👀 I’m interested in being a full-stack developer
-- 📚 My Tech Stack :
+- 👀 I’m a full-stack developer.
+- 
+- 📚 My Tech Stack -
 
-   - SASS 🎯
-   - Bootstrap 🔰
-   - TailwindCSS 🎨
-   - Javascript ⚙
-   - React ❄️
-   - Git & Github ⏳
-   - Node.js ⏳
-   - Express.js ⏳
-   - MongoDB ⏳
+   - SASS
+   - Bootstrap
+   - TailwindCSS
+   - JavaScript
+   - React.Js
+   - TypeScript
+   - Git & GitHub
+   - Node.Js
+   - Express.Js
+   - MongoDB
