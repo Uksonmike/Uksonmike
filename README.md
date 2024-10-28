@@ -10,7 +10,6 @@ I'm a front-end developer with more than 2 years of experience.<br>Also, I'm a h
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uksonmike&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uksonmike&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uksonmike&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
